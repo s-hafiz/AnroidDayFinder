@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DayFinder</string>
+    <string name="month">month(0)</string>
+    <string name="date">date</string>
+    <string name="btnText">find</string>
+    <string name="btnTextNext">clear</string>
+</resources>
